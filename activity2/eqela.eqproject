@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# activity2
+#
+
+projectname: activity2
+vendorid: com.mycompany
+mainmodule: com.mycompany.activity2
